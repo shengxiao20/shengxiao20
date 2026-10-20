@@ -8,8 +8,8 @@
  ## Find me online
 
  - 📦 **npm:** [shengxiao04](https://www.npmjs.com/~shengxiao04)
- - 🎥 **Bilibili:** [嘉伟今天吃什么]([https://space.bilibili.com/](https://space.bilibili.com/204451912?spm_id_from=333.1007.0.0))
- - 📕 **Rednote:** [shengxiao20]([https://www.xiaohongshu.com/user/profile/](https://www.xiaohongshu.com/user/profile/6267a3e50000000021023f1b))
+ - 🎥 **Bilibili:** [嘉伟今天吃什么](https://space.bilibili.com/204451912?spm_id_from=333.1007.0.0)
+ - 📕 **Rednote:** [shengxiao20](https://www.xiaohongshu.com/user/profile/6267a3e50000000021023f1b)
 
  ## Featured npm packages
 
