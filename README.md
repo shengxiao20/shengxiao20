@@ -1,16 +1,22 @@
-## Hi there 👋
+ # Hi, I'm Michael Hu 👋
 
-<!--
-**shengxiao20/shengxiao20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🎓 **B.S. in Data Science**
+ 🏫 School of Economics and Finance, **SISU**
 
-Here are some ideas to get you started:
+ I’m interested in building practical tools and exploring AI-powered developer experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Find me online
+
+ - 📦 **npm:** [shengxiao04](https://www.npmjs.com/~shengxiao04)
+ - 🎥 **Bilibili:** [嘉伟今天吃什么]([https://space.bilibili.com/](https://space.bilibili.com/204451912?spm_id_from=333.1007.0.0))
+ - 📕 **Rednote:** [shengxiao20]([https://www.xiaohongshu.com/user/profile/](https://www.xiaohongshu.com/user/profile/6267a3e50000000021023f1b))
+
+ ## Featured npm packages
+
+ | Package | Description | Downloads |
+ | :--- | :--- | ---: |
+ | [pi-session-memory](https://www.npmjs.com/package/pi-session-memory) | Session memory tooling for Pi | 3,787 |
+ | [pi-native-app](https://www.npmjs.com/package/pi-native-app) | Native app integration for Pi | 1,056 |
+ | [pi-pet-reze](https://www.npmjs.com/package/pi-pet-reze) | A Pi pet extension | 880 |
+
+ > Building, learning, and sharing—one project at a time.
