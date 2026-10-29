@@ -1,0 +1,17 @@
+name: Update npm downloads
+description: Refresh existing package totals through yesterday using the public npm API.
+inputs:
+  target:
+    description: Content format (profile or website)
+    required: true
+runs:
+  using: composite
+  steps:
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '22'
+    - name: Fetch and render npm totals
+      shell: bash
+      env:
+        CONTENT_TARGET: ${{ inputs.target }}
+      run: node "$GITHUB_ACTION_PATH/update.mjs" "$GITHUB_WORKSPACE" "$CONTENT_TARGET"
