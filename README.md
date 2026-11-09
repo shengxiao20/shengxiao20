@@ -13,12 +13,12 @@
 
  ## Featured npm packages
 
- <!-- npm-downloads-updated:start -->Total npm downloads through 2026-10-28 (UTC). Updated via GitHub Actions.<!-- npm-downloads-updated:end -->
+ <!-- npm-downloads-updated:start -->Total npm downloads through 2026-11-08 (UTC). Updated via GitHub Actions.<!-- npm-downloads-updated:end -->
 
  | Package | Description | Downloads |
  | :--- | :--- | ---: |
- | [pi-session-memory](https://www.npmjs.com/package/pi-session-memory) | Session memory tooling for Pi | 4,108 |
- | [pi-native-app](https://www.npmjs.com/package/pi-native-app) | Native app integration for Pi | 1,174 |
- | [pi-pet-reze](https://www.npmjs.com/package/pi-pet-reze) | A Pi pet extension | 1,037 |
+ | [pi-session-memory](https://www.npmjs.com/package/pi-session-memory) | Session memory tooling for Pi | 5,324 |
+ | [pi-native-app](https://www.npmjs.com/package/pi-native-app) | Native app integration for Pi | 2,245 |
+ | [pi-pet-reze](https://www.npmjs.com/package/pi-pet-reze) | A Pi pet extension | 1,145 |
 
  > Building, learning, and sharing—one project at a time.
